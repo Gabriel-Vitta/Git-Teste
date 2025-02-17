@@ -1,0 +1,1 @@
+print("Pequeno passo para o aprimoramento inevitável")
